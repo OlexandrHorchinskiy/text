@@ -1,2 +1,4 @@
 Some new text!
 Another new text.
+
+And additional text.
